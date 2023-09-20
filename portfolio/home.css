@@ -1,0 +1,63 @@
+.display .nav-sec{
+    /* background-color: yellow; */
+    position: absolute;
+    top: 3%;
+    left: 2.5%;
+    height: 10%;
+    width: 95%;
+    border-bottom: 0.01rem solid #595555;
+}
+
+.display .desc-sec{
+    /* background-color: green; */
+    position: absolute;
+    top: 15%;
+    left: 2.5%;
+    height: 45%;
+    width: 95%;
+    border-bottom: 0.01rem solid  #595555;
+}
+
+
+.display .desc-sec .introduction{
+    position: absolute;
+    height: 80%;
+    width: 100%;
+    background-color: #0000;
+}
+
+.display .desc-sec .introduction .desc{
+    position: absolute;
+    left: 0;
+    height: 100%;
+    width: 50%;
+    /* background-color: green; */
+}
+
+
+.display .desc-sec .introduction .pic{
+    position: absolute;
+    right: 0;
+    height: 100%;
+    width: 25%;
+    border-radius: 50rem;
+    background-color: #f7b924;
+}
+
+.display .desc-sec .job{
+    position: absolute;
+    top: 82%;
+    height: 20%;
+    width: 100%;
+    /* background-color: turquoise; */
+}
+
+.display .skill-sec{
+    background-color: #f3f3f3;
+    position: absolute;
+    top: 63%;
+    left: 2.5%;
+    height: 35%;
+    width: 95%;
+    border-radius: 0.5rem;
+}
