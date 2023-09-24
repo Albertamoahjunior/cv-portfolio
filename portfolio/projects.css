@@ -1,0 +1,10 @@
+.display .info{
+    /* background-color: green; */
+    position: absolute;
+    top: 15%;
+    left: 2.5%;
+    height: 45%;
+    width: 95%;
+    border-bottom: 0;
+    color: #f7b924;
+}
