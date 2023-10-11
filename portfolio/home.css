@@ -21,6 +21,7 @@
     left: 0;
     height: 100%;
     width: 50%;
+    font-size: 2rem;
     /* background-color: green; */
 }
 
@@ -34,12 +35,15 @@
 .display .desc-sec .introduction .desc .hire-button{
     background-color: #f7b924;
     border: 0;
-    border-radius: 0.1rem;
+    border-radius: 0.19rem;
     padding-left: 1rem;
     padding-top: 0.3rem;
     padding-bottom: 0.3rem;
     padding-right: 1rem;
-    width: 6rem;
+    width: 7rem;
+    height: 2rem;
+    font-size: 1rem;
+    font-weight: 500;
 }
 
 
@@ -114,7 +118,7 @@
     padding: 0%;
     text-align: left;
     color: #f7b924;
-    font-size: 1.5rem;
+    font-size: 2rem;
     font-weight: 50;
 }
 
@@ -125,7 +129,7 @@
     text-align: left;
     color: #ffff;
     font-weight: 50;
-    font-size: 1rem;
+    font-size: 1.5em;
     font-stretch: ultra-expanded;
 }
 
