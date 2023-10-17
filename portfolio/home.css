@@ -200,6 +200,18 @@
     }
 }
 
-@media (min-width:913px) and (max-width:1282px){
+@media (min-width:1282px){
+    .display .desc-sec .introduction .pic{
+        position: absolute;
+        right: 0;
+        height: 85%;
+        width: 20%;
+        border-radius: 50rem;
+        background-color: #f7b924;
+    }
 
+    .display .desc-sec .introduction .desc h1, h2, p{
+        margin-bottom: 1rem;
+        margin-top: 0;
+    }
 }
