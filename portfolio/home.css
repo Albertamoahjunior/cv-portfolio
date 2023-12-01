@@ -142,12 +142,13 @@
     border-radius: 0.5rem;
 }
 
-@media (max-width:450px){
+@media (max-width:770px){
     .display .desc-sec .introduction .desc{
         position: absolute;
         left: 0;
         height: 40%;
         width: 100%;
+        font-size: 1rem;
         /* background-color: green; */
     }
 
@@ -189,7 +190,16 @@
     }
 }
 
-@media (min-width:451px) and (max-width:912px){
+@media (min-width:771px) and (max-width:912px){
+    .display .desc-sec .introduction .desc{
+        position: absolute;
+        left: 0;
+        height: 40%;
+        width: 100%;
+        font-size: 1rem;
+        /* background-color: green; */
+    }
+
     .display .desc-sec .introduction .pic{
         position: absolute;
         right: 0;
